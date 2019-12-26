@@ -1,2 +1,8 @@
 2 uur - workflow opzetten
-test
+
+
+======
+
+http://jsfiddle.net/nuwa0me0/
+https://stackoverflow.com/questions/5112995/how-to-replace-radio-buttons-with-images
+door gebruiker Ari
